@@ -15,7 +15,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 # Questions
 In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The phenomena that I have chosen are:
-1. Which stations are the most popular and least popular start and end stations for the month of January 2020 and June 2020?
+1. Which stations are the most popular start and end stations for the month of January 2020 and June 2020?
 2. 
 
 
