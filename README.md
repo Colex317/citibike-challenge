@@ -33,8 +33,13 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 # Analysis
 1. **Most popular start and end stations:**
    
-   *The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:*
+   ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
    
+   Persing Square North is one of the largest stations in the system, and it is just South of Grand Central Terminal, a major railroad and subway hub. It makes sense why Persing Square North is one of the top stations.
+   The greenway along the Hudson River is one of the most popular places to ride. It offers beautiful water views and a dedicated bike path that is closed to car traffic, making 12 Ave & W 40 St a popular station as this station is in close proximity to the Hudson River
+   Greenway.
+   
+
    **January 2020:**
    
    - Pershing Square North
@@ -62,7 +67,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/455736ba-c5cd-4d2b-9eb8-005e78796ce8">
 
 
-   *The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:*
+   ***The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:***
    
    **January 2020:**
    
@@ -102,4 +107,12 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 
 ## References
+Citibike (2024). Hudson River Greenway. Retrieved from https://citibikenyc.com/rides/hudson-river-greenway
+
 GeekforGeeks (n.d.). pandas.concat() function in Python. Retrieved from https://www.geeksforgeeks.org/pandas-concat-function-in-python/
+
+Kranish, Clif (2021). Exploring NYC Bike Share Data. Retrieved from https://towardsdatascience.com/exploring-bike-share-data-3e3b2f28760c#:~:text=This%20shows%20the%20most%20frequently,that%20should%20be%20number%20one.
+
+
+
+
