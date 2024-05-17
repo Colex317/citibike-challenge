@@ -28,7 +28,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
      - What is the typical start time by gender?
 
 # Analysis
-1. **Most popular start and end stations:**
+## 1. Most popular start and end stations:
    
 
     **Pershing Square North** is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
@@ -76,28 +76,28 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    
    **January 2020:**
    
-- Pershing Square North
-    
-- Broadway & 22 St
-    
-- E 17 St & Broadway
-    
-- W 21 St & 6 Ave
-    
-- Christopher St & Greenwich St
+    - Pershing Square North
+        
+    - Broadway & 22 St
+        
+    - E 17 St & Broadway
+        
+    - W 21 St & 6 Ave
+        
+    - Christopher St & Greenwich St
 
   
    **June 2020:**
    
-- 12 Ave & W 40 St
-     
-- West St & Chambers St
-     
-- 1 Ave & E 68 St
-     
-- Broadway & W 60 St
-     
-- Christopher St & Greenwich St
+    - 12 Ave & W 40 St
+         
+    - West St & Chambers St
+         
+    - 1 Ave & E 68 St
+         
+    - Broadway & W 60 St
+         
+    - Christopher St & Greenwich St
 
  
  
@@ -105,19 +105,24 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
  
     <img width="818" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/18427b35-22d4-4eee-912e-a275787a07c5">
 
+
+
+
+
+
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/19ddf3bf-9dd4-4c80-b4e2-a9156a40c21b">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-3. Citibike usage and trip durations:
+## 2. Citibike usage and trip durations:
    - What is the duration of a bike trip for the top 10 users?
    - How many trips have been recorded in total during the chosen period?
    - What is the average trip duration per user type (customer vs. subscribers)?
    - What is the average trip duration for the months of January and June?
 
-4. Gender analysis:
+## 3. Gender analysis:
      - What is the average trip for each gender by user type?
      - What is the typical start time by gender?
 
