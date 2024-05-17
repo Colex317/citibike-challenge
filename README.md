@@ -17,8 +17,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 # Questions
 In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The phenomena that I have chosen are:
 1. Most popular start and end stations:
-  - What are the top 10 stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
-  - What are the top 10 stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
+    - What are the top 10 stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
+    - What are the top 10 stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
 
 2. Citibike usage and trip durations:
    - What is the duration of a bike trip for the top 10 users?
