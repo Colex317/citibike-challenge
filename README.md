@@ -16,17 +16,17 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 # Questions
 In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The chosen phenomena are:
-1. Most popular start and end stations:
+1. **Most popular start and end stations:**
     - What are the top stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
     - What are the top stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
 
-2. Citibike usage and trip durations:
+2. **Citibike usage and trip durations:**
    - What is the duration of a bike trip for the top 10 users?
    - How many trips have been recorded in total during the chosen period?
    - What is the average trip duration per user type (customer vs. subscribers)?
    - What is the average trip duration for the months of January and June?
 
-3. Gender analysis:
+3. **Gender analysis:**
      - What is the average trip for each gender by user type?
      - What is the typical start time by gender?
 
@@ -35,9 +35,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    
    ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
    
-   Persing Square North is one of the largest stations in the system, and it is just South of Grand Central Terminal, a major railroad and subway hub. It makes sense why Persing Square North is one of the top stations.
-   The greenway along the Hudson River is one of the most popular places to ride. It offers beautiful water views and a dedicated bike path that is closed to car traffic, making 12 Ave & W 40 St a popular station as this station is in close proximity to the Hudson River
-   Greenway.
+    **Pershing Square North** is among the largest stations in the system, located just south of Grand Central Terminal, a significant railroad and subway hub. This explains why Pershing Square North ranks among the top stations.
+
+    The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at **12 Ave & W 40 St** is may be popular due to its close proximity to the Hudson River Greenway.
    
 
    **January 2020:**
