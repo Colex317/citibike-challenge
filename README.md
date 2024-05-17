@@ -36,7 +36,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
     **Pershing Square North** is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
-    The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at **12 Ave & W 40 St** is may be popular due to its close proximity to the Hudson River Greenway.
+    The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at **12 Ave & W 40 St** may be popular due to its close proximity to the Hudson River Greenway.
 
    ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
@@ -63,7 +63,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
     - Broadway & W 60 St
    
     - Christopher St & Greenwich St
-   
+
+   <img width="796" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/99b0a0d1-f0c0-4563-b64d-1ccb698ef1a9">
+
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/455736ba-c5cd-4d2b-9eb8-005e78796ce8">
 
 
@@ -92,6 +94,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
     - Broadway & W 60 St
    
     - Christopher St & Greenwich St
+
+ 
+    <img width="818" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/57b77953-ff65-49ba-bfc7-e3f99f3243ec">
 
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/19ddf3bf-9dd4-4c80-b4e2-a9156a40c21b">
 
