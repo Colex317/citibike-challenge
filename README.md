@@ -76,35 +76,34 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    
    **January 2020:**
    
-    - Pershing Square North
+- Pershing Square North
     
-    - Broadway & 22 St
+- Broadway & 22 St
     
-    - E 17 St & Broadway
+- E 17 St & Broadway
     
-    - W 21 St & 6 Ave
+- W 21 St & 6 Ave
     
-    - Christopher St & Greenwich St
+- Christopher St & Greenwich St
 
   
    **June 2020:**
    
-    - 12 Ave & W 40 St
+- 12 Ave & W 40 St
      
-    - West St & Chambers St
+- West St & Chambers St
      
-    - 1 Ave & E 68 St
+- 1 Ave & E 68 St
      
-    - Broadway & W 60 St
+- Broadway & W 60 St
      
-    - Christopher St & Greenwich St
+- Christopher St & Greenwich St
 
  
  
  --------------------------------------------------------------------------------------------------------------------------------------------
  
     <img width="818" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/18427b35-22d4-4eee-912e-a275787a07c5">
-
 
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/19ddf3bf-9dd4-4c80-b4e2-a9156a40c21b">
 
