@@ -30,14 +30,13 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 # Analysis
 ## 1. Most popular start and end stations:
    
+**Pershing Square North** is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
-    **Pershing Square North** is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
-
-    The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at **12 Ave & W 40 St** may be popular due to its close proximity to the Hudson River Greenway.
+The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at **12 Ave & W 40 St** may be popular due to its close proximity to the Hudson River Greenway.
 
    ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
-   **January 2020:**
+**January 2020:**
    
 - Pershing Square North
    
@@ -49,7 +48,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    
 - E 13 St & Avenue A
 
-   **June 2020:**
+**June 2020:**
 
 - 12 Ave & W 40 St
 
@@ -70,10 +69,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-   ***The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:***
+***The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:***
    
-   **January 2020:**
+**January 2020:**
    
 - Pershing Square North
         
@@ -86,7 +84,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 - Christopher St & Greenwich St
 
   
-   **June 2020:**
+**June 2020:**
    
 - 12 Ave & W 40 St
          
