@@ -9,8 +9,9 @@ As the new lead analyst for the New York Citi Bike program, you are now responsi
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. 
 
 # Files Included
-[Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb)
-[Vizualizations - Tableau](https://public.tableau.com/app/profile/marsha.cole5675/viz/citibike_challenge_17155523190470/CitiBikeStory?publish=yes)
+- [Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb)
+
+- [Vizualizations - Tableau](https://public.tableau.com/app/profile/marsha.cole5675/viz/citibike_challenge_17155523190470/CitiBikeStory?publish=yes)
 
 
 # Questions
