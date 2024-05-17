@@ -6,7 +6,7 @@ As the new lead analyst for the New York Citi Bike program, you are now responsi
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. The selected period for this visualization assignment was January 2020 (the winter month) and June 2020 (the summer month).
 
 # Files Included
-- [Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb)
+- [Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb), the csv file was too large to be uploaded to GitHub.
 
 - [Visualizations - Tableau Public Workbook](https://public.tableau.com/app/profile/marsha.cole5675/viz/citibike_challenge_17155523190470/CitiBikeStory?publish=yes)
 
