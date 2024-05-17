@@ -32,6 +32,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 # Analysis
 1. **Most popular start and end stations:**
+   
    *The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:*
    
    **January 2020:**
@@ -58,7 +59,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    
     - Christopher St & Greenwich St
    
-   
+   <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/455736ba-c5cd-4d2b-9eb8-005e78796ce8">
+
+
    *The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:*
    
    **January 2020:**
@@ -84,7 +87,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
     - Broadway & W 60 St
    
     - Christopher St & Greenwich St
-   
+
+   <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/19ddf3bf-9dd4-4c80-b4e2-a9156a40c21b">
+
 3. Citibike usage and trip durations:
    - What is the duration of a bike trip for the top 10 users?
    - How many trips have been recorded in total during the chosen period?
