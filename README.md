@@ -73,31 +73,33 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
    ***The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:***
    
    **January 2020:**
    
-   - Pershing Square North
-   
+    - Pershing Square North
+    
     - Broadway & 22 St
-   
+    
     - E 17 St & Broadway
-   
+    
     - W 21 St & 6 Ave
-   
+    
     - Christopher St & Greenwich St
 
    **June 2020:**
    
    - 12 Ave & W 40 St
-   
-    - West St & Chambers St
-   
-    - 1 Ave & E 68 St
-   
-    - Broadway & W 60 St
-   
-    - Christopher St & Greenwich St
+     
+   - West St & Chambers St
+     
+   - 1 Ave & E 68 St
+     
+   - Broadway & W 60 St
+     
+   - Christopher St & Greenwich St
 
  
  
