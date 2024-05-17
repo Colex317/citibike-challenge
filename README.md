@@ -10,13 +10,27 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 # Files Included
 [Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb)
-
+[Vizualizations - Tableau](https://public.tableau.com/app/profile/marsha.cole5675/viz/citibike_challenge_17155523190470/CitiBikeStory?publish=yes)
 
 
 # Questions
 In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The phenomena that I have chosen are:
-1. Which stations are the most popular start and end stations for the month of January 2020 and June 2020?
-2. 
+1. Most popular start and end stations:
+  - What are the top 10 stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
+  - What are the top 10 stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
+
+2. Citibike usage and trip durations:
+   - What is the duration of a bike trip for the top 10 users?
+   - How many trips have been recorded in total during the chosen period?
+   - What is the average trip duration per user type (customer vs. subscribers)?
+   - What is the average trip duration for the months of January and June?
+
+3. Gender analysis:
+     - What is the average trip for each gender by user type?
+     - What is the typical start time by gender?
+
+
+
 
 
 ## References
