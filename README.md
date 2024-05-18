@@ -39,22 +39,18 @@ The greenway along the Hudson River is a highly popular spot for riding, offerin
 
 **January 2020:**
    
-- Pershing Square North
-- W 21 St & 6 Ave
-- E 17 St & Broadway
-- Broadway & 22 St
-- E 13 St & Avenue A
+    - Pershing Square North
+    - W 21 St & 6 Ave
+    - E 17 St & Broadway
+    - Broadway & 22 St
+    - E 13 St & Avenue A
 
 **June 2020:**
 
 - 12 Ave & W 40 St
-
 - 1 Ave & E 68 St
-   
-- West St & Chambers St
-   
-- Broadway & W 60 St
-   
+- West St & Chambers St   
+- Broadway & W 60 St 
 - Christopher St & Greenwich St
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,27 +66,19 @@ The greenway along the Hudson River is a highly popular spot for riding, offerin
    
 **January 2020:**
    
-- Pershing Square North
-        
-- Broadway & 22 St
-        
-- E 17 St & Broadway
-        
-- W 21 St & 6 Ave
-        
+- Pershing Square North     
+- Broadway & 22 St     
+- E 17 St & Broadway     
+- W 21 St & 6 Ave     
 - Christopher St & Greenwich St
 
   
 **June 2020:**
    
-- 12 Ave & W 40 St
-         
-- West St & Chambers St
-         
-- 1 Ave & E 68 St
-         
-- Broadway & W 60 St
-         
+- 12 Ave & W 40 St    
+- West St & Chambers St    
+- 1 Ave & E 68 St     
+- Broadway & W 60 St    
 - Christopher St & Greenwich St
 
  
