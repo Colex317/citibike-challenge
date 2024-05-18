@@ -6,10 +6,11 @@ As the new lead analyst for the New York Citi Bike program, you are now responsi
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. The selected period for this visualization assignment was January 2020 (the winter month) and June 2020 (the summer month).
 
 # Files Included
-- [Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb), the csv file was too large to be uploaded to GitHub.
+- [Python Script](https://github.com/Colex317/citibike-challenge/blob/main/citibike_data.ipynb)
 
 - [Visualizations - Tableau Public Workbook](https://public.tableau.com/app/profile/marsha.cole5675/viz/citibike_challenge_17155523190470/CitiBikeStory?publish=yes)
 
+- CSV files - were too large to be uploaded to GitHub.
 
 # Questions
 In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The chosen phenomena are:
@@ -30,23 +31,23 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 # Analysis
 ## 1. Most popular start and end stations:
    
-**Pershing Square North** is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
+`**Pershing Square North**` is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
-The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at **12 Ave & W 40 St** may be popular due to its close proximity to the Hudson River Greenway.
+The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at `**12 Ave & W 40 St**` may be popular due to its close proximity to the Hudson River Greenway.
 
    ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
 **January 2020:**
    
-- Pershing Square North
+    - Pershing Square North
    
-- W 21 St & 6 Ave
+    - W 21 St & 6 Ave
    
-- E 17 St & Broadway
+    - E 17 St & Broadway
    
-- Broadway & 22 St
+    - Broadway & 22 St
    
-- E 13 St & Avenue A
+    - E 13 St & Avenue A
 
 **June 2020:**
 
