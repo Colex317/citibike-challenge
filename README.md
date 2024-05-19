@@ -103,6 +103,7 @@ For the winter month of January 2020, there were 1,240,596 recorded citibike tri
 
 <img width="640" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/76539e5e-671e-4aa6-9184-19e979808e5b">
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 **Average trip duration per user type (customer vs. subscribers)**
 
@@ -110,9 +111,11 @@ The average trip duration for a customer (24-hour pass or 3-day pass user) is ap
 
 <img width="640" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/699dec28-00ed-40c7-867c-fcd27003b744">
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 **Duration of bike trip for the top 10 users over the course of the chosen period**
 
-Over the course of two months (January and June 2020), the top user rode for a total of 148 hours and 43 minutes (535,410 seconds).
+Over the course of two months (January and June 2020), the top user rode for 148 hours and 43 minutes (535,410 seconds).
 
 <img width="675" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/992d0dac-b245-4c4d-9669-68ef30776157">
 
