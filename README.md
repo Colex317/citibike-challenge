@@ -97,7 +97,7 @@ The greenway along the Hudson River is a highly popular spot for riding, offerin
 
 **Trips recorded and the average duration of a trip during the chosen period (January and June 2020)**
 
-For the winter month of January 2020, 1,240,596 recorded citibike trips compared to 1,882,273 for the summer month of June 2020. The average duration of a trip during January was approximately 13.08 minutes (784.6 seconds), and 27.32 minutes (1639.1 seconds) during June.  As expected, the number of citibike trips tends to be higher in the summer and lower in the winter, and the duration of the trips is also less during the winter months.
+For the winter month of January 2020, there were 1,240,596 recorded citibike trips compared to 1,882,273 for the summer month of June 2020. The average duration of a trip during January was approximately 13.08 minutes (784.6 seconds), and 27.32 minutes (1639.1 seconds) during June.  As expected, the number of citibike trips tends to be higher in the summer and lower in the winter, and the duration of the trips is also less during the winter months.
 
 <img width="568" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/db6a68b0-498a-4eab-b7c4-adc9b88e3231">
 
