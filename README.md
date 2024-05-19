@@ -21,8 +21,6 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 2. **Citibike usage and trip durations:**
    - What is the duration of a bike trip for the top 10 users?
    - How many trips have been recorded in total during the chosen period?
-   -
-   -
    - What is the average trip duration for the months of January and June?
    - What is the average trip duration per user type (customer vs. subscribers)?
    
