@@ -55,6 +55,7 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 - Christopher St & Greenwich St
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+    <img width="775" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/fe407344-3c53-457d-8160-4668bb6c422f">
 
 
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/455736ba-c5cd-4d2b-9eb8-005e78796ce8">
@@ -85,7 +86,8 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
  
  
  --------------------------------------------------------------------------------------------------------------------------------------------
- 
+     <img width="794" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4b108d51-13d1-4457-b0df-11a1577d89a2">
+
 
    <img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/19ddf3bf-9dd4-4c80-b4e2-a9156a40c21b">
 
