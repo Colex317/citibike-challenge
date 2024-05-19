@@ -13,13 +13,13 @@ However, while the data has been regularly updated, the team has yet to implemen
 - CSV files - were too large to be uploaded to GitHub.
 
 # Questions
-In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The chosen phenomena are:
+In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find at least two unexpected phenomena. The chosen phenomena are:
 1. **Most popular start and end stations:**
     - What are the top stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
     - What are the top stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
 
 2. **Citibike usage and trip durations:**
-   - How many trips have been recorded in total during the chosen period?
+   - How many trips have been recorded (for each month) during the chosen period?
    - What is the average trip duration for the months of January and June?
    - What is the average trip duration per user type (customer vs. subscribers)?
    - What is the total riding duration for the top 10 users over the selected period?
@@ -95,9 +95,9 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 
 ## 2. Citibike usage and trip durations:
 
-**Trips recorded and the average duration of a trip during the chosen period (January and June 2020)**
+**Trips recorded and the average trip duration during the chosen period (January and June 2020)**
 
-For the winter month of January 2020, there were 1,240,596 recorded citibike trips compared to 1,882,273 for the summer month of June 2020. The average duration of a trip during January was approximately 13.08 minutes (784.6 seconds), and 27.32 minutes (1639.1 seconds) during June.  As expected, the number of citibike trips tends to be higher in the summer and lower in the winter, and the duration of the trips is also less during the winter months.
+For the winter month of January 2020, there were 1,240,596 recorded citibike trips compared to 1,882,273 for the summer month of June 2020. The average trip duration during January was 13.08 minutes (784.6 seconds), and 27.32 minutes (1639.1 seconds) during June. As expected, the number of citibike trips tends to be higher in the summer and lower in the winter, and the duration of the trips is also less during the winter months.
 
 <img width="568" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/db6a68b0-498a-4eab-b7c4-adc9b88e3231">
 
@@ -124,7 +124,7 @@ The top user rode for 148 hours and 43 minutes (535,410 seconds) over two months
 ## 3. Gender analysis:
 **Bike-share usage by gender and average trip duration for each gender by user type**
 
-The data shows that more males (62.42 %) use bikeshare more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
+The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
 
 **Average female ride duration:**
 - Customers (24-hour pass or 3-day pass user) - 38.08 minutes (2285 seconds)
@@ -144,6 +144,7 @@ The data shows that more males (62.42 %) use bikeshare more regularly than femal
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 **Typical start time by gender**
+
 We found that trip start times were the same for both genders. Bike usage was lowest between midnight and 5 AM, and the peak bike usage was at the 17th hour (5 PM). 
 
 
