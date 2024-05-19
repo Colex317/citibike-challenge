@@ -121,6 +121,11 @@ The top user rode for 148 hours and 43 minutes (535,410 seconds) over two months
 
 <img width="675" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/992d0dac-b245-4c4d-9669-68ef30776157">
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+**Dashboard representing the citibike usage and trip durations:**
+
+<img width="818" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/6403ecca-db9b-4712-ac7e-8d8baa21837a">
 
 
 ## 3. Gender analysis:
@@ -153,6 +158,10 @@ We found that trip start times were the same for both genders. Bike usage was lo
 <img width="751" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4a82c27d-3c75-42fe-8e73-b249816b1437">
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+**Dashboard representing citibike gender analysis:**
+
+<img width="799" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4704f573-cc6a-47b3-85a8-477ff8b8d75b">
+
 
 ## References
 Citibike (2024). Hudson River Greenway. Retrieved from https://citibikenyc.com/rides/hudson-river-greenway
