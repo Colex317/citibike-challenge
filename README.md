@@ -19,14 +19,14 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
     - What are the top stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
 
 2. **Citibike usage and trip durations:**
-   - What is the duration of a bike trip for the top 10 users?
    - How many trips have been recorded in total during the chosen period?
    - What is the average trip duration for the months of January and June?
    - What is the average trip duration per user type (customer vs. subscribers)?
-   
+   - What is the total riding duration for the top 10 users over the selected period?
 
 3. **Gender analysis:**
-     - What is the average trip for each gender by user type?
+     - Is there a significant gender disparity in the regular usage of bike-share services?
+     - What is the average trip duration for each gender by user type?
      - What is the typical start time by gender?
 
 # Analysis
@@ -34,7 +34,7 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
    
 `Pershing Square North` is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
-The greenway along the Hudson River is a highly popular spot for riding, offering scenic water views and a dedicated bike path free from car traffic. Consequently, the station at `12 Ave & W 40 St` may be popular due to its close proximity to the Hudson River Greenway.
+The greenway along the Hudson River is a highly popular spot for riding. It offers scenic water views and a dedicated bike path free from car traffic. Consequently, the station at `12 Ave & W 40 St` may be popular due to its close proximity to the Hudson River Greenway.
 
    ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
@@ -113,17 +113,38 @@ The average trip duration for a customer (24-hour pass or 3-day pass user) is ap
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**Duration of bike trip for the top 10 users over the course of the chosen period**
+**Total Riding Duration for the Top 10 Users Over the Selected Period**
 
-Over the course of two months (January and June 2020), the top user rode for 148 hours and 43 minutes (535,410 seconds).
+The top user rode for 148 hours and 43 minutes (535,410 seconds) over two months (January and June 2020).
 
 <img width="675" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/992d0dac-b245-4c4d-9669-68ef30776157">
 
 
 
 ## 3. Gender analysis:
-     - What is the average trip for each gender by user type?
-     - What is the typical start time by gender?
+**Bike-share usage by gender and average trip duration for each gender by user type**
+
+The data shows that more males (62.42 %) use bikeshare more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have a longer rides than males.
+
+**Female**
+- Customers (24-hour pass or 3-day pass user) - 38.08 minutes (2285 seconds)
+- Subscribers (annual membership) - 18.48 minutes (1109 seconds)
+
+**Male**
+- Customers (24-hour pass or 3-day pass user) - 32.93 minutes (1976 seconds)
+- Subscribers (annual membership)- 15.25 minutes (915 seconds)
+
+
+<img width="485" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/162eccb6-38e8-4c0c-9a4a-5bfa0cc63d10">
+
+
+<img width="523" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/dc4b8ff3-0b10-4c43-8f91-490cf28733c7">
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Typical start time by gender**
 
 
 ## References
