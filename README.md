@@ -21,8 +21,11 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 2. **Citibike usage and trip durations:**
    - What is the duration of a bike trip for the top 10 users?
    - How many trips have been recorded in total during the chosen period?
-   - What is the average trip duration per user type (customer vs. subscribers)?
+   -
+   -
    - What is the average trip duration for the months of January and June?
+   - What is the average trip duration per user type (customer vs. subscribers)?
+   
 
 3. **Gender analysis:**
      - What is the average trip for each gender by user type?
@@ -38,11 +41,12 @@ The greenway along the Hudson River is a highly popular spot for riding, offerin
    ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
 **January 2020:**
-    - Pershing Square North
-    - W 21 St & 6 Ave
-    - E 17 St & Broadway
-    - Broadway & 22 St
-    - E 13 St & Avenue A
+
+- Pershing Square North
+- W 21 St & 6 Ave
+- E 17 St & Broadway
+- Broadway & 22 St
+- E 13 St & Avenue A
 
 **June 2020:**
 
@@ -92,10 +96,29 @@ The greenway along the Hudson River is a highly popular spot for riding, offerin
 
 
 ## 2. Citibike usage and trip durations:
-   - What is the duration of a bike trip for the top 10 users?
-   - How many trips have been recorded in total during the chosen period?
-   - What is the average trip duration per user type (customer vs. subscribers)?
-   - What is the average trip duration for the months of January and June?
+
+**Trips recorded and the average duration of a trip during the chosen period (January and June 2020)**
+
+For the winter month of January 2020, 1,240,596 recorded citibike trips compared to 1,882,273 for the summer month of June 2020. The average duration of a trip during January was approximately 13.08 minutes (784.6 seconds), and 27.32 minutes (1639.1 seconds) during June.  As expected, the number of citibike trips tends to be higher in the summer and lower in the winter, and the duration of the trips is also less during the winter months.
+
+<img width="568" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/db6a68b0-498a-4eab-b7c4-adc9b88e3231">
+
+<img width="640" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/76539e5e-671e-4aa6-9184-19e979808e5b">
+
+
+**Average trip duration per user type (customer vs. subscribers)**
+
+The average trip duration for a customer (24-hour pass or 3-day pass user) is approximately 41.67 minutes (2500 seconds), and subscribers' (annual membership) average trip duration lasts 16.2 minutes (972 seconds).
+
+<img width="640" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/699dec28-00ed-40c7-867c-fcd27003b744">
+
+**Duration of bike trip for the top 10 users over the course of the chosen period**
+
+Over the course of two months (January and June 2020), the top user rode for a total of 148 hours and 43 minutes (535,410 seconds).
+
+<img width="675" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/992d0dac-b245-4c4d-9669-68ef30776157">
+
+
 
 ## 3. Gender analysis:
      - What is the average trip for each gender by user type?
