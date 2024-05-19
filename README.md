@@ -124,13 +124,13 @@ The top user rode for 148 hours and 43 minutes (535,410 seconds) over two months
 ## 3. Gender analysis:
 **Bike-share usage by gender and average trip duration for each gender by user type**
 
-The data shows that more males (62.42 %) use bikeshare more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have a longer rides than males.
+The data shows that more males (62.42 %) use bikeshare more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
 
-**Average female ride duration**
+**Average female ride duration:**
 - Customers (24-hour pass or 3-day pass user) - 38.08 minutes (2285 seconds)
 - Subscribers (annual membership) - 18.48 minutes (1109 seconds)
 
-**Average male ride duration**
+**Average male ride duration:**
 - Customers (24-hour pass or 3-day pass user) - 32.93 minutes (1976 seconds)
 - Subscribers (annual membership)- 15.25 minutes (915 seconds)
 
@@ -143,9 +143,13 @@ The data shows that more males (62.42 %) use bikeshare more regularly than femal
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-
 **Typical start time by gender**
+We found that trip start times were the same for both genders. Bike usage was lowest between midnight and 5 AM, and the peak bike usage was at the 17th hour (5 PM). 
 
+
+<img width="751" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4a82c27d-3c75-42fe-8e73-b249816b1437">
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ## References
 Citibike (2024). Hudson River Greenway. Retrieved from https://citibikenyc.com/rides/hudson-river-greenway
