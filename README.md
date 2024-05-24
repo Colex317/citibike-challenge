@@ -52,7 +52,7 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 - W 21 St & 6 Ave 
 - Pershing Square North
 
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 <img width="550" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/70f33a92-d0a8-4003-b661-3dfd314379c5">
@@ -84,7 +84,7 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 
  
  
- --------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 <img width="550" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/ec813926-08f8-4838-a7a4-bba7aaa4e99b">
@@ -117,11 +117,16 @@ For the winter month of January 2020, there were:
 
 - 56,968 recorded citibike trips compared to 251,291 for the summer month of June 2020 
 
---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 <img width="778" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/055ac1d6-f749-4cf2-a24f-60900f6dacd7">
 
 
 <img width="677" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/1efc07e7-cdf7-40d1-ab46-a8140fd0d69c">
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -139,7 +144,9 @@ The average trip duration for a male customer (24-hour pass or 3-day pass user) 
 For those who did not state their gender, the average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 51.72 minutes, and the average trip duration for male subscribers (annual membership) is 16.54 minutes.
 
 
+
 <img width="680" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/dcb9d59c-983b-48f2-a304-0cb9aba42284">
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -156,15 +163,17 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 - Customers (24-hour pass or 3-day pass user) - 32.93 minutes
 - Subscribers (annual membership)- 15.26 minutes
 
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img width="780" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/071e832a-24fa-47cd-a529-5742129e29e1">
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 **Typical start time by gender**
 
 We found that trip start times were the same for both genders. Bike usage was lowest between midnight and 5 AM, and the peak bike usage was at the 17th hour (5 PM). 
+
 
 
 <img width="751" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4a82c27d-3c75-42fe-8e73-b249816b1437">
