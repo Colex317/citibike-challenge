@@ -55,10 +55,10 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img width="359" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/70f33a92-d0a8-4003-b661-3dfd314379c5">
+<img width="550" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/70f33a92-d0a8-4003-b661-3dfd314379c5">
 
 
-<img width="679" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/8fc7feef-4574-4ea3-aafb-9666c97340d7">
+<img width="950" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/8fc7feef-4574-4ea3-aafb-9666c97340d7">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -87,10 +87,10 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
  --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img width="374" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/ec813926-08f8-4838-a7a4-bba7aaa4e99b">
+<img width="550" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/ec813926-08f8-4838-a7a4-bba7aaa4e99b">
 
 
-<img width="679" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/1ac5f0e8-e37a-4592-9ad6-c83b4dca0087">
+<img width="950" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/1ac5f0e8-e37a-4592-9ad6-c83b4dca0087">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
