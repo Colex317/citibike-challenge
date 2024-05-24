@@ -98,7 +98,7 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 
 ## 3. Gender analysis:
 
-**Trips recorded and the average trip duration during the chosen period (January and June 2020), showing the changes by gender**
+**Number of trips recorded during the chosen period (January and June 2020), showing the changes by gender**
 
 As expected, the number of citibike trips tends to be higher in the summer and lower in the winter.
 For the winter month of January 2020, there were:
@@ -107,9 +107,11 @@ For the winter month of January 2020, there were:
 
 - 279,106 recorded citibike trips compared to 586,361 for the summer month of June 2020 
 
+
 **Male**
 
 - 904,522 recorded citibike trips compared to 1,044,621 for the summer month of June 2020 
+
 
 **Unknown** (those who did not state their gender)
 
@@ -128,8 +130,10 @@ For the winter month of January 2020, there were:
 **Female**
 The average trip duration for a female customer (24-hour pass or 3-day pass user) is approximately 38.08 minutes, and the average trip duration for female subscribers (annual membership) is 18.48 minutes.
 
+
 **Male**
 The average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 32.93 minutes, and the average trip duration for male subscribers (annual membership) is 15.26 minutes.
+
 
 **Unknown**
 For those who did not state their gender, the average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 51.72 minutes, and the average trip duration for male subscribers (annual membership) is 16.54 minutes.
@@ -146,6 +150,7 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 **Average female ride duration:**
 - Customers (24-hour pass or 3-day pass user) - 38.08 minutes
 - Subscribers (annual membership) - 18.48 minutes
+
 
 **Average male ride duration:**
 - Customers (24-hour pass or 3-day pass user) - 32.93 minutes
