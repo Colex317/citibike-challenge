@@ -53,10 +53,14 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 - Pershing Square North
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <img width="359" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/70f33a92-d0a8-4003-b661-3dfd314379c5">
 
 
 <img width="679" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/8fc7feef-4574-4ea3-aafb-9666c97340d7">
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -81,10 +85,14 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
  
  
  --------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <img width="374" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/ec813926-08f8-4838-a7a4-bba7aaa4e99b">
 
 
 <img width="679" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/1ac5f0e8-e37a-4592-9ad6-c83b4dca0087">
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -143,6 +151,7 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 - Customers (24-hour pass or 3-day pass user) - 32.93 minutes
 - Subscribers (annual membership)- 15.26 minutes
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="780" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/071e832a-24fa-47cd-a529-5742129e29e1">
 
@@ -156,10 +165,6 @@ We found that trip start times were the same for both genders. Bike usage was lo
 <img width="751" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4a82c27d-3c75-42fe-8e73-b249816b1437">
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-**Dashboard representing citibike gender analysis:**
-
-<img width="811" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/e3e25979-ff14-4f0f-827d-20349b32b66b">
-
 
 
 ## References
