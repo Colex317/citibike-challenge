@@ -13,18 +13,16 @@ However, while the data has been regularly updated, the team has yet to implemen
 - CSV files - were too large to be uploaded to GitHub.
 
 # Questions
-In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find at least two unexpected phenomena. The chosen phenomena are:
+In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The chosen phenomena are:
+
 1. **Most popular start and end stations:**
     - What are the top stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
     - What are the top stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
 
-2. **Citibike usage and trip durations:**
-   - How many trips have been recorded (for each month) during the chosen period?
-   - What is the average trip duration for the months of January and June?
-   - What is the average trip duration per user type (customer vs. subscribers)?
-   - What is the total riding duration for the top 10 users over the selected period?
 
-3. **Gender analysis:**
+2. **Gender analysis:**
+     - How many trips have been recorded (for each month) during the chosen period?
+     - What is the average trip duration per user type (customer vs. subscribers)?
      - Is there a significant gender disparity in the regular usage of bike-share services?
      - What is the average trip duration for each gender by user type?
      - What is the typical start time by gender?
@@ -42,25 +40,23 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
 
 - Pershing Square North
 - W 21 St & 6 Ave
-- E 17 St & Broadway
-- Broadway & 22 St
-- E 13 St & Avenue A
+- West St & Chambers St  
+- 1 Ave & E 68 St   
+- 12 Ave & W 40 St
 
 **June 2020:**
 
 - 12 Ave & W 40 St
 - 1 Ave & E 68 St
 - West St & Chambers St   
-- Broadway & W 60 St 
-- Christopher St & Greenwich St
+- W 21 St & 6 Ave 
+- Pershing Square North
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-<img width="775" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/fe407344-3c53-457d-8160-4668bb6c422f">
+<img width="359" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/70f33a92-d0a8-4003-b661-3dfd314379c5">
 
 
-<img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/455736ba-c5cd-4d2b-9eb8-005e78796ce8">
-
-
+<img width="679" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/8fc7feef-4574-4ea3-aafb-9666c97340d7">
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -68,85 +64,87 @@ The greenway along the Hudson River is a highly popular spot for riding. It offe
    
 **January 2020:**
    
-- Pershing Square North     
-- Broadway & 22 St     
-- E 17 St & Broadway     
-- W 21 St & 6 Ave     
-- Christopher St & Greenwich St
-
-  
+- Pershing Square North       
+- E 17 St & Broadway
+- West St & Chambers St   
+- 1 Ave & E 68 St       
+- 12 Ave & W 40 St  
+ 
 **June 2020:**
    
 - 12 Ave & W 40 St    
 - West St & Chambers St    
 - 1 Ave & E 68 St     
-- Broadway & W 60 St    
-- Christopher St & Greenwich St
+- E 17 St & Broadway   
+- Pershing Square North  
 
  
  
  --------------------------------------------------------------------------------------------------------------------------------------------
-<img width="794" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4b108d51-13d1-4457-b0df-11a1577d89a2">
+<img width="374" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/ec813926-08f8-4838-a7a4-bba7aaa4e99b">
 
 
-<img width="980" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/19ddf3bf-9dd4-4c80-b4e2-a9156a40c21b">
-
-
+<img width="679" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/1ac5f0e8-e37a-4592-9ad6-c83b4dca0087">
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## 2. Citibike usage and trip durations:
-
-**Trips recorded and the average trip duration during the chosen period (January and June 2020)**
-
-For the winter month of January 2020, there were 1,240,596 recorded citibike trips compared to 1,882,273 for the summer month of June 2020. The average trip duration during January was 13.08 minutes (784.6 seconds), and 27.32 minutes (1639.1 seconds) during June. As expected, the number of citibike trips tends to be higher in the summer and lower in the winter, and the duration of the trips is also less during the winter months.
-
-<img width="568" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/db6a68b0-498a-4eab-b7c4-adc9b88e3231">
-
-<img width="640" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/76539e5e-671e-4aa6-9184-19e979808e5b">
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-**Average trip duration per user type (customer vs. subscribers)**
-
-The average trip duration for a customer (24-hour pass or 3-day pass user) is approximately 41.67 minutes (2500 seconds), and subscribers' (annual membership) average trip duration lasts 16.2 minutes (972 seconds).
-
-<img width="640" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/699dec28-00ed-40c7-867c-fcd27003b744">
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-**Total Riding Duration for the Top 10 Users Over the Selected Period**
-
-The top user rode for 148 hours and 43 minutes (535,410 seconds) over two months (January and June 2020).
-
-<img width="675" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/992d0dac-b245-4c4d-9669-68ef30776157">
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-**Dashboard representing the citibike usage and trip durations:**
-
-<img width="818" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/6403ecca-db9b-4712-ac7e-8d8baa21837a">
 
 
 ## 3. Gender analysis:
+
+**Trips recorded and the average trip duration during the chosen period (January and June 2020), showing the changes by gender**
+
+As expected, the number of citibike trips tends to be higher in the summer and lower in the winter.
+For the winter month of January 2020, there were:
+
+**Female**
+
+- 279,106 recorded citibike trips compared to 586,361 for the summer month of June 2020 
+
+**Male**
+
+- 904,522 recorded citibike trips compared to 1,044,621 for the summer month of June 2020 
+
+**Unknown** (those who did not state their gender)
+
+- 56,968 recorded citibike trips compared to 251,291 for the summer month of June 2020 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+<img width="778" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/055ac1d6-f749-4cf2-a24f-60900f6dacd7">
+
+
+<img width="677" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/1efc07e7-cdf7-40d1-ab46-a8140fd0d69c">
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+**Average trip duration per user type (customer vs. subscribers), showing the changes by gender**
+
+**Female**
+The average trip duration for a female customer (24-hour pass or 3-day pass user) is approximately 38.08 minutes, and the average trip duration for female subscribers (annual membership) is 18.48 minutes.
+
+**Male**
+The average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 32.93 minutes, and the average trip duration for male subscribers (annual membership) is 15.26 minutes.
+
+**Unknown**
+For those who did not state their gender, the average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 51.72 minutes, and the average trip duration for male subscribers (annual membership) is 16.54 minutes.
+
+
+<img width="680" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/dcb9d59c-983b-48f2-a304-0cb9aba42284">
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 **Bike-share usage by gender and average trip duration for each gender by user type**
 
 The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
 
 **Average female ride duration:**
-- Customers (24-hour pass or 3-day pass user) - 38.08 minutes (2285 seconds)
-- Subscribers (annual membership) - 18.48 minutes (1109 seconds)
+- Customers (24-hour pass or 3-day pass user) - 38.08 minutes
+- Subscribers (annual membership) - 18.48 minutes
 
 **Average male ride duration:**
-- Customers (24-hour pass or 3-day pass user) - 32.93 minutes (1976 seconds)
-- Subscribers (annual membership)- 15.25 minutes (915 seconds)
+- Customers (24-hour pass or 3-day pass user) - 32.93 minutes
+- Subscribers (annual membership)- 15.26 minutes
 
 
-<img width="485" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/162eccb6-38e8-4c0c-9a4a-5bfa0cc63d10">
-
-
-<img width="523" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/dc4b8ff3-0b10-4c43-8f91-490cf28733c7">
-
+<img width="780" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/071e832a-24fa-47cd-a529-5742129e29e1">
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -160,7 +158,8 @@ We found that trip start times were the same for both genders. Bike usage was lo
 --------------------------------------------------------------------------------------------------------------------------------------------
 **Dashboard representing citibike gender analysis:**
 
-<img width="799" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/4704f573-cc6a-47b3-85a8-477ff8b8d75b">
+<img width="811" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/e3e25979-ff14-4f0f-827d-20349b32b66b">
+
 
 
 ## References
