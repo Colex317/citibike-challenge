@@ -135,15 +135,18 @@ As expected, the number of citibike trips tends to be higher in the summer and l
 **Average trip duration (in minutes) per user type (customer vs. subscribers), showing the changes by gender**
 
 **Female**
-The average trip duration for a female customer (24-hour pass or 3-day pass user) is approximately 38.08 minutes, and the average trip duration for female subscribers (annual membership) is 18.48 minutes.
+
+- The average trip duration for a female customer (24-hour pass or 3-day pass user) is approximately 38.08 minutes, and the average trip duration for female subscribers (annual membership) is 18.48 minutes.
 
 
 **Male**
-The average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 32.93 minutes, and the average trip duration for male subscribers (annual membership) is 15.26 minutes.
+
+- The average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 32.93 minutes, and the average trip duration for male subscribers (annual membership) is 15.26 minutes.
 
 
 **Unknown**
-For those who did not state their gender, the average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 51.72 minutes, and the average trip duration for male subscribers (annual membership) is 16.54 minutes.
+
+- For those who did not state their gender, the average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 51.72 minutes, and the average trip duration for male subscribers (annual membership) is 16.54 minutes.
 
 
 
@@ -164,11 +167,13 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 **Average trip duration (in minutes) for each gender by user type**
 
 **Average female ride duration:**
+
 - Customers (24-hour pass or 3-day pass user) - 38.08 minutes
 - Subscribers (annual membership) - 18.48 minutes
 
 
 **Average male ride duration:**
+
 - Customers (24-hour pass or 3-day pass user) - 32.93 minutes
 - Subscribers (annual membership)- 15.26 minutes
 
