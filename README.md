@@ -34,7 +34,9 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 The greenway along the Hudson River is a highly popular spot for riding. It offers scenic water views and a dedicated bike path free from car traffic. Consequently, the station at `12 Ave & W 40 St` may be popular due to its close proximity to the Hudson River Greenway.
 
-   ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
+The maps show the most popular start and end stations; only the top 100 were selected for both maps, as Citikike has over 1770 stations. Having all the stations on the maps would affect visibility.
+  
+***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
 **January 2020:**
 
@@ -182,7 +184,10 @@ We found that trip start times were the same for both genders. Bike usage was lo
 
 
 ## References
-Citibike (2024). Hudson River Greenway. Retrieved from https://citibikenyc.com/rides/hudson-river-greenway
+
+Citibike (2024a). Biking in NYC. Retrieved from https://citibikenyc.com/how-it-works/bike-rental-nyc
+
+Citibike (2024b). Hudson River Greenway. Retrieved from https://citibikenyc.com/rides/hudson-river-greenway
 
 GeekforGeeks (n.d.). pandas.concat() function in Python. Retrieved from https://www.geeksforgeeks.org/pandas-concat-function-in-python/
 
