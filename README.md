@@ -103,21 +103,21 @@ The maps show the most popular start and end stations; only the top 100 were sel
 **Number of trips recorded during the chosen period (January and June 2020), showing the changes by gender**
 
 As expected, the number of citibike trips tends to be higher in the summer and lower in the winter.
-For the winter month of January 2020, there were:
+
 
 **Female**
 
-- 279,106 recorded citibike trips compared to 586,361 for the summer month of June 2020 
+- For the winter month of January 2020, there were 279,106 recorded citibike trips compared to 586,361 for the summer month of June 2020 
 
 
 **Male**
 
-- 904,522 recorded citibike trips compared to 1,044,621 for the summer month of June 2020 
+- For the winter month of January 2020, there were 904,522 recorded citibike trips compared to 1,044,621 for the summer month of June 2020 
 
 
 **Unknown** (those who did not state their gender)
 
-- 56,968 recorded citibike trips compared to 251,291 for the summer month of June 2020 
+- For the winter month of January 2020, there were 56,968 recorded citibike trips compared to 251,291 for the summer month of June 2020 
 
 
 
