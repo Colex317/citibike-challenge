@@ -132,7 +132,7 @@ For the winter month of January 2020, there were:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**Average trip duration per user type (customer vs. subscribers), showing the changes by gender**
+**Average trip duration (in minutes) per user type (customer vs. subscribers), showing the changes by gender**
 
 **Female**
 The average trip duration for a female customer (24-hour pass or 3-day pass user) is approximately 38.08 minutes, and the average trip duration for female subscribers (annual membership) is 18.48 minutes.
@@ -152,9 +152,16 @@ For those who did not state their gender, the average trip duration for a male c
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**Bike-share usage by gender and average trip duration for each gender by user type**
+**Bike-share usage by gender**
 
 The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
+
+
+<img width="712" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/376eca87-631d-4bfa-bfd2-18f063c96f9a">
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+**Average trip duration (in minutes) for each gender by user type**
 
 **Average female ride duration:**
 - Customers (24-hour pass or 3-day pass user) - 38.08 minutes
