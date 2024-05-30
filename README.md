@@ -21,10 +21,10 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 
 2. **Gender analysis:**
-     - How many trips have been recorded (for each month) during the chosen period?
-     - Is there a significant gender disparity in the regular usage of bike-share services?
-     - What is the average trip duration for each gender by user type?
-     - What is the typical start time by gender?
+    - Is there a significant gender disparity in the regular usage of bike-share services?
+    - How many trips have been recorded (for each month) during the chosen period?
+    - What is the average trip duration for each gender by user type?
+    - What is the typical start time by gender?
 
 # Analysis of Citibike Usage in 2020
 
@@ -123,6 +123,16 @@ The maps show the most popular start and end stations; only the top 100 were sel
 
 ## 3. Gender analysis:
 
+### Bike-share usage by gender
+
+The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
+
+
+<img width="712" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/376eca87-631d-4bfa-bfd2-18f063c96f9a">
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Number of trips recorded during the chosen period (January and June 2020), showing the changes by gender
 
 As expected, the number of citibike trips tends to be higher in the summer and lower in the winter. Males have more recorded citibike trips than females for both months:
@@ -156,15 +166,7 @@ As expected, the number of citibike trips tends to be higher in the summer and l
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### Bike-share usage by gender
 
-The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
-
-
-<img width="712" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/376eca87-631d-4bfa-bfd2-18f063c96f9a">
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
 ### Average trip duration (in minutes) for each gender by user type
 
 On average, customers (24-hour pass or 3-day pass user) ride greater durations than subscribers (annual membership). Female customers (24-hour pass or 3-day pass user) ride 5.15 minutes more than male customers, and female subscribers (annual membership) ride 3.22 minutes more than male subscribers.
