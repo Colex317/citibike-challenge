@@ -22,7 +22,6 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 2. **Gender analysis:**
      - How many trips have been recorded (for each month) during the chosen period?
-     - What is the average trip duration per user type (customer vs. subscribers)?
      - Is there a significant gender disparity in the regular usage of bike-share services?
      - What is the average trip duration for each gender by user type?
      - What is the typical start time by gender?
@@ -157,34 +156,6 @@ As expected, the number of citibike trips tends to be higher in the summer and l
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### Average trip duration (in minutes) per user type (customer vs. subscribers), showing the changes by gender
-
-On average, female customers (24-hour pass or 3-day pass user) ride 5.15 minutes more than male customers, and female subscribers (annual membership) ride 3.22 minutes more than male subscribers.
-
-**Female**
-
-- Customer -  38.08 minutes
-- Subscribers - 18.48 minutes
-
-
-**Male**
-
-- Customer -  32.93 minutes
-- Subscribers - 15.26 minutes
-
-
-**Unknown**
-
-- Customer - 51.72 minutes
-- Subscribers - 16.54 minutes
-
-
-
-<img width="680" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/dcb9d59c-983b-48f2-a304-0cb9aba42284">
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
 ### Bike-share usage by gender
 
 The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
@@ -196,7 +167,7 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 --------------------------------------------------------------------------------------------------------------------------------------------
 ### Average trip duration (in minutes) for each gender by user type
 
-On average, customers (24-hour pass or 3-day pass user) ride greater durations than subscribers (annual membership).
+On average, customers (24-hour pass or 3-day pass user) ride greater durations than subscribers (annual membership). Female customers (24-hour pass or 3-day pass user) ride 5.15 minutes more than male customers, and female subscribers (annual membership) ride 3.22 minutes more than male subscribers.
 
 **Average female ride duration:**
 
