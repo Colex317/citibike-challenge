@@ -46,7 +46,7 @@ By analyzing data from different seasons within the same year, we can focus on h
 
 - Winter Month: January 2020, representing a typical winter month.
 
-- Summer Month: June 2020, representing a typical summer month.
+- Summer Month: June 2020, representing the start of the summer.
 
 ### 1. Most popular start and end stations:
    
