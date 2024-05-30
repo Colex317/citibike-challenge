@@ -31,9 +31,13 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
 
 In this analysis, I chose to focus on Citibike usage data from the year 2020. This decision is driven by several key considerations:
 
-**Seasonal Comparison:** A core objective of this analysis is to compare Citibike usage between winter and summer months. This allows us to understand seasonal variations in bike-sharing behavior, which is critical for optimizing bike availability and maintenance schedules.
+**Seasonal Comparison:** 
 
-**Impact of the COVID-19 Pandemic:** The year 2020 was unique due to the global COVID-19 pandemic, which had profound effects on urban mobility patterns. It is important to acknowledge that data from this year may deviate significantly from pre-COVID and post-COVID trends.
+A core objective of this analysis is to compare Citibike usage between winter and summer months. This allows us to understand seasonal variations in bike-sharing behavior, which is critical for optimizing bike availability and maintenance schedules.
+
+**Impact of the COVID-19 Pandemic:** 
+
+The year 2020 was unique due to the global COVID-19 pandemic, which had profound effects on urban mobility patterns. It is important to acknowledge that data from this year may deviate significantly from pre-COVID and post-COVID trends.
 
 ## Reasoning Behind the Choice of 2020
 
