@@ -121,7 +121,7 @@ The maps show the most popular start and end stations; only the top 100 were sel
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 3. Gender Analysis
+# 2. Gender Analysis
 
 ### Bike-share usage by gender
 
