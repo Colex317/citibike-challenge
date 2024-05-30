@@ -44,9 +44,9 @@ The year 2020 was unique due to the global COVID-19 pandemic, which had profound
 
 By analyzing data from different seasons within the same year, we can focus on how weather and temperature affect Citibike usage. This helps in planning for seasonal demand variations, ensuring bikes are available when and where they are needed most.
 
-Winter Month: January 2020, representing a typical winter month.
+- Winter Month: January 2020, representing a typical winter month.
 
-Summer Month: June 2020, representing a typical summer month.
+- Summer Month: June 2020, representing a typical summer month.
 
 ### 1. Most popular start and end stations:
    
