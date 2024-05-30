@@ -15,12 +15,12 @@ However, while the data has been regularly updated, the team has yet to implemen
 # Questions
 In this assignment, the aim was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The chosen phenomena are:
 
-1. **Most popular start and end stations:**
+1. **Most popular start and end stations**
     - What are the top stations in the city for starting a journey (for the months of January and June)? Based on the data, why?
     - What are the top stations in the city for ending a journey (for the months of January and June)? Based on the data, why?
 
 
-2. **Gender analysis:**
+2. **Gender analysis**
     - Is there a significant gender disparity in the regular usage of bike-share services?
     - How many trips have been recorded (for each month) during the chosen period?
     - What is the average trip duration for each gender by user type?
@@ -48,7 +48,7 @@ By analyzing data from different seasons within the same year, we can focus on h
 
 - Summer Month: June 2020, representing the start of summer.
 
-### 1. Most popular start and end stations:
+### 1. Most Popular Start and End Stations
    
 `Pershing Square North` is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
@@ -121,7 +121,7 @@ The maps show the most popular start and end stations; only the top 100 were sel
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 3. Gender analysis:
+## 3. Gender Analysis
 
 ### Bike-share usage by gender
 
