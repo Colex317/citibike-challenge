@@ -27,15 +27,33 @@ In this assignment, the aim was to aggregate the data found in the Citi Bike Tri
      - What is the average trip duration for each gender by user type?
      - What is the typical start time by gender?
 
-# Analysis
-## 1. Most popular start and end stations:
+# Analysis of Citibike Usage in 2020
+
+In this analysis, I chose to focus on Citibike usage data from the year 2020. This decision is driven by several key considerations:
+
+**Seasonal Comparison:** A core objective of this analysis is to compare Citibike usage between winter and summer months. This allows us to understand seasonal variations in bike-sharing behavior, which is critical for optimizing bike availability and maintenance schedules.
+
+**Impact of the COVID-19 Pandemic:** The year 2020 was unique due to the global COVID-19 pandemic, which had profound effects on urban mobility patterns. It is important to acknowledge that data from this year may deviate significantly from pre-COVID and post-COVID trends.
+
+## Reasoning Behind the Choice of 2020
+
+**Seasonal Variation Analysis** 
+Winter vs. Summer Usage: By analyzing data from different seasons within the same year, we can focus on how weather and temperature affect Citibike usage. This helps in planning for seasonal demand variations, ensuring bikes are available when and where they are needed most.
+
+Winter Month: January 2020, representing a typical winter month.
+
+Summer Month: June 2020, representing a typical summer month.
+
+### 1. Most popular start and end stations:
    
 `Pershing Square North` is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
 The greenway along the Hudson River is a highly popular spot for riding. It offers scenic water views and a dedicated bike path free from car traffic. Consequently, the station at `12 Ave & W 40 St` may be popular due to its close proximity to the Hudson River Greenway.
 
 The maps show the most popular start and end stations; only the top 100 were selected for both maps, as Citikike has over 1770 stations. Having all the stations on the maps would affect visibility.
-  
+
+### Start stations
+
 ***The top stations in the city for starting a journey for the months of January and June 2020 in descending order were:***
 
 **January 2020:**
@@ -65,6 +83,7 @@ The maps show the most popular start and end stations; only the top 100 were sel
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+### Start stations
 
 ***The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:***
    
@@ -100,24 +119,25 @@ The maps show the most popular start and end stations; only the top 100 were sel
 
 ## 3. Gender analysis:
 
-**Number of trips recorded during the chosen period (January and June 2020), showing the changes by gender**
+### Number of trips recorded during the chosen period (January and June 2020), showing the changes by gender
 
-As expected, the number of citibike trips tends to be higher in the summer and lower in the winter.
-
-
-**Female**
-
-- For the winter month of January 2020, there were 279,106 recorded citibike trips compared to 586,361 for the summer month of June 2020 
-
+As expected, the number of citibike trips tends to be higher in the summer and lower in the winter. Males have more recorded citibike trips than females for both months:
 
 **Male**
 
-- For the winter month of January 2020, there were 904,522 recorded citibike trips compared to 1,044,621 for the summer month of June 2020 
+- January 2020 - 904,522 
+- June 2020 - 1,044,621 
+
+**Female**
+
+- January 2020 - 279,106
+- June 2020 - 586,361 
 
 
 **Unknown** (those who did not state their gender)
 
-- For the winter month of January 2020, there were 56,968 recorded citibike trips compared to 251,291 for the summer month of June 2020 
+- January 2020 - 56,968 
+- June 2020 - 251,291
 
 
 
@@ -132,21 +152,26 @@ As expected, the number of citibike trips tends to be higher in the summer and l
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**Average trip duration (in minutes) per user type (customer vs. subscribers), showing the changes by gender**
+### Average trip duration (in minutes) per user type (customer vs. subscribers), showing the changes by gender
+
+On average, female customers (24-hour pass or 3-day pass user) ride 5.15 minutes more than male customers, and female subscribers (annual membership) ride 3.22 minutes more than male subscribers.
 
 **Female**
 
-- The average trip duration for a female customer (24-hour pass or 3-day pass user) is approximately 38.08 minutes, and the average trip duration for female subscribers (annual membership) is 18.48 minutes.
+- Customer -  38.08 minutes
+- Subscribers - 18.48 minutes
 
 
 **Male**
 
-- The average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 32.93 minutes, and the average trip duration for male subscribers (annual membership) is 15.26 minutes.
+- Customer -  32.93 minutes
+- Subscribers - 15.26 minutes
 
 
 **Unknown**
 
-- For those who did not state their gender, the average trip duration for a male customer (24-hour pass or 3-day pass user) is approximately 51.72 minutes, and the average trip duration for male subscribers (annual membership) is 16.54 minutes.
+- Customer - 51.72 minutes
+- Subscribers - 16.54 minutes
 
 
 
@@ -155,7 +180,7 @@ As expected, the number of citibike trips tends to be higher in the summer and l
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**Bike-share usage by gender**
+### Bike-share usage by gender
 
 The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
 
@@ -164,18 +189,24 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-**Average trip duration (in minutes) for each gender by user type**
+### Average trip duration (in minutes) for each gender by user type
+
+On average, customers (24-hour pass or 3-day pass user) ride greater durations than subscribers (annual membership).
 
 **Average female ride duration:**
 
-- Customers (24-hour pass or 3-day pass user) - 38.08 minutes
-- Subscribers (annual membership) - 18.48 minutes
+The data shows that the average trip duration of female customers is 19.6 minutes greater than the average trip duration of female subscribers.
+
+- Customers - 38.08 minutes
+- Subscribers - 18.48 minutes
 
 
 **Average male ride duration:**
 
-- Customers (24-hour pass or 3-day pass user) - 32.93 minutes
-- Subscribers (annual membership)- 15.26 minutes
+The data shows that the average trip duration of male customers is 17.67 minutes greater than the average trip duration of male subscribers.
+
+- Customers - 32.93 minutes
+- Subscribers - 15.26 minutes
 
 
 
@@ -184,7 +215,7 @@ The data shows that more males (62.42 %) use bike-share more regularly than fema
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**Typical start time by gender**
+### Typical start time by gender
 
 We found that trip start times were the same for both genders. Bike usage was lowest between midnight and 5 AM, and the peak bike usage was at the 17th hour (5 PM). 
 
