@@ -42,7 +42,6 @@ The year 2020 was unique due to the global COVID-19 pandemic, which had profound
 ## Reasoning Behind the Choice of 2020
 
 **Seasonal Variation Analysis** 
-Winter vs. Summer Usage: 
 
 By analyzing data from different seasons within the same year, we can focus on how weather and temperature affect Citibike usage. This helps in planning for seasonal demand variations, ensuring bikes are available when and where they are needed most.
 
