@@ -33,7 +33,7 @@ In this analysis, I chose to focus on Citibike usage data from the year 2020. Th
 
 **Seasonal Comparison:** 
 
-A core objective of this analysis is to compare Citibike usage between winter and summer months. This allows us to understand seasonal variations in bike-sharing behavior, which is critical for optimizing bike availability and maintenance schedules.
+A core objective of this analysis is to compare Citibike usage between a winter and a summer month. This allows us to understand seasonal variations in bike-sharing behavior, which is critical for optimizing bike availability and maintenance schedules.
 
 **Impact of the COVID-19 Pandemic:** 
 
