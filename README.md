@@ -48,7 +48,7 @@ By analyzing data from different seasons within the same year, we can focus on h
 
 - Summer Month: June 2020, representing the start of summer.
 
-### 1. Most Popular Start and End Stations
+# 1. Most Popular Start and End Stations
    
 `Pershing Square North` is among the largest stations in the system. It is located just south of Grand Central Terminal, a significant railroad and subway hub, which explains why it ranks among the top stations.
 
@@ -121,7 +121,7 @@ The maps show the most popular start and end stations; only the top 100 were sel
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 3. Gender Analysis
+# 3. Gender Analysis
 
 ### Bike-share usage by gender
 
