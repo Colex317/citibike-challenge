@@ -38,7 +38,7 @@ A core objective of this analysis is to compare Citibike usage between a winter 
 
 The year 2020 was unique due to the global COVID-19 pandemic, which had profound effects on urban mobility patterns. It is important to acknowledge that data from this year may deviate significantly from pre-COVID and post-COVID trends.
 
-## Reasoning Behind the Choice of 2020
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 **Seasonal Variation Analysis** 
 
