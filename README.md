@@ -125,7 +125,7 @@ The maps show the most popular start and end stations; only the top 100 were sel
 
 ### Bike-share usage by gender
 
-The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender. The average trip duration shows that females have longer rides than males.
+The data shows that more males (62.42 %) use bike-share more regularly than females (27.71%), and 9.87 % did not state their gender.
 
 
 <img width="712" alt="image" src="https://github.com/Colex317/citibike-challenge/assets/148498483/376eca87-631d-4bfa-bfd2-18f063c96f9a">
