@@ -88,7 +88,7 @@ The maps show the most popular start and end stations; only the top 100 were sel
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### Start stations
+### End stations
 
 ***The top stations in the city for ending a journey for the months of January and June 2020 in descending order were:***
    
