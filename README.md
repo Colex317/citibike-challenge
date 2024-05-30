@@ -169,7 +169,7 @@ As expected, the number of citibike trips tends to be higher in the summer and l
 
 ### Average trip duration (in minutes) for each gender by user type
 
-On average, customers (24-hour pass or 3-day pass user) ride greater durations than subscribers (annual membership). Female customers (24-hour pass or 3-day pass user) ride 5.15 minutes more than male customers, and female subscribers (annual membership) ride 3.22 minutes more than male subscribers.
+On average, customers (24-hour pass or 3-day pass user) ride greater durations than subscribers (annual membership). Female customers ride 5.15 minutes more than male customers, and female subscribers ride 3.22 minutes more than male subscribers.
 
 **Average female ride duration:**
 
